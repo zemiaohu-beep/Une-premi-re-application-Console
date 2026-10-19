@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TP1 - Exemples": {
+      "commandName": "Project",
+      "commandLineArgs": "\"CLE1:Bonjour\" \"CLE2:5\" \"CLE3:0\" \"CLE4:3.5\" \"ACTIF:true\" \"PERSONNE:{\\\"Nom\\\":\\\"Alice\\\",\\\"Age\\\":23}\""
+    },
+    "TP1 - Saisie interactive": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}

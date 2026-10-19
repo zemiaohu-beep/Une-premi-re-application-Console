@@ -1,0 +1,15 @@
+# Visual Studio user files and caches
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+**/bin/
+**/obj/
+TestResults/
+
+# Local tooling and OS files
+.DS_Store
+Thumbs.db
